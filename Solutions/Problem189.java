@@ -24,7 +24,7 @@
     0 <= k <= 105
  */
 
-class Solution {
+class Problem189 {
     public void rotate(int[] nums, int k) {
         int[] rot = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
