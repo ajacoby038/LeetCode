@@ -2,10 +2,11 @@
 
 ## Completed Problems
 
-| Problem # | Name                               | Type                   | Difficulty | Date Solved | Do Again? |
+| Problem # | Name                               | Type                   | Difficulty | Date Solved | Review?   |
 | --------- | ---------------------------------- | ---------------------- | ---------- | ----------- | --------- |
 | 1         | Two Sum                            | Array, Hash Table      | Easy       | 8/1         |           |
 | 8         | String to Integer (atoi)           | String                 | Medium     | 8/1         |           |
+| 21        | Merge Two Sorted Lists             | Linked List, Recursion | Easy       | 8/4         | yes       |
 | 28        | Implement strStr()                 | String                 | Easy       | 8/2         |           |
 | 136       | Single Number                      | Array                  | Easy       | 7/28        |           |
 | 189       | Rotate Array                       | Array                  | Medium     | 7/28        |           |
