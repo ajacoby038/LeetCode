@@ -2,7 +2,7 @@
 
 ## Completed Problems
 
-| Problem # | Name                               | Type                   | Difficulty | Date Solved | Review?   |
+| Problem   | Name                               | Type                   | Difficulty | Date        | Review?   |
 | --------- | ---------------------------------- | ---------------------- | ---------- | ----------- | --------- |
 | 1         | Two Sum                            | Array, Hash Table      | Easy       | 8/1         |           |
 | 8         | String to Integer (atoi)           | String                 | Medium     | 8/1         |           |
