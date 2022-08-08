@@ -9,6 +9,7 @@
 | 20        | Valid Parentheses                  | String                  | Easy       | 8/8         |            |
 | 21        | Merge Two Sorted Lists             | Linked List, Recursion  | Easy       | 8/4         | approach 1 |
 | 28        | Implement strStr()                 | String                  | Easy       | 8/2         |            |
+| 121       | Best Time to Buy and Sell Stock    | Array                   | Easy       | 8/8         | approach 2 |
 | 136       | Single Number                      | Array                   | Easy       | 7/28        |            |
 | 141       | Linked List Cycle                  | Linked List, Hash Table | Easy       | 8/4         |            |
 | 189       | Rotate Array                       | Array                   | Medium     | 7/28        |            |
