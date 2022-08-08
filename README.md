@@ -15,6 +15,7 @@
 | 141       | Linked List Cycle                  | Linked List, Hash Table | Easy       | 8/4         |            |
 | 189       | Rotate Array                       | Array                   | Medium     | 7/28        |            |
 | 206       | Reverse Linked List                | Linked List, Recursion  | Easy       | 8/2         |            |
+| 226       | Invert Binary Tree                 | Tree, Recursion         | Easy       | 8/8         |            |
 | 234       | Palindrome Linked List             | Linked List, Recursion  | Easy       | 8/5         | approach 3 |
 | 237       | Delete Node in a Linked List       | Linked List             | Easy       | 8/5         |            |
 | 344       | Reverse String                     | String                  | Easy       | 8/1         |            |
