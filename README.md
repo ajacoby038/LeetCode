@@ -18,6 +18,7 @@
 | 226       | Invert Binary Tree                 | Tree, Recursion         | Easy       | 8/8         |            |
 | 234       | Palindrome Linked List             | Linked List, Recursion  | Easy       | 8/5         | approach 3 |
 | 237       | Delete Node in a Linked List       | Linked List             | Easy       | 8/5         |            |
+| 242       | Valid Anagram                      | String                  | Easy       | 8/8         |            |
 | 344       | Reverse String                     | String                  | Easy       | 8/1         |            |
 | 350       | Intersection of Two Arrays II      | Array, Hash Table       | Easy       | 7/30        |            |
 | 387       | First Unique Character in a String | String, Hash Table      | Easy       | 8/1         |            |
