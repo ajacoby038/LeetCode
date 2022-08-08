@@ -6,6 +6,7 @@
 | --------- | ---------------------------------- | ----------------------- | ---------- | ----------- | ---------- |
 | 1         | Two Sum                            | Array, Hash Table       | Easy       | 8/1         |            |
 | 8         | String to Integer (atoi)           | String                  | Medium     | 8/1         |            |
+| 20        | Valid Parentheses                  | String                  | Easy       | 8/8         |            |
 | 21        | Merge Two Sorted Lists             | Linked List, Recursion  | Easy       | 8/4         | approach 1 |
 | 28        | Implement strStr()                 | String                  | Easy       | 8/2         |            |
 | 136       | Single Number                      | Array                   | Easy       | 7/28        |            |
