@@ -22,3 +22,4 @@
 | 344       | Reverse String                     | String                  | Easy       | 8/1         |            |
 | 350       | Intersection of Two Arrays II      | Array, Hash Table       | Easy       | 7/30        |            |
 | 387       | First Unique Character in a String | String, Hash Table      | Easy       | 8/1         |            |
+| 704       | Binary Search                      | Array                   | Easy       | 8/11        |            |
