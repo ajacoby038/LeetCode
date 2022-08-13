@@ -23,7 +23,8 @@
 | 235       | Lowest Common Ancestor of a BST    | BST, Recursion          | Easy       | 8/11        |            |
 | 237       | Delete Node in a Linked List       | Linked List             | Easy       | 8/5         |            |
 | 242       | Valid Anagram                      | String                  | Easy       | 8/8         |            |
+| 278       | First Bad Version                  | Binary Search           | Easy       | 8/12        |            |
 | 344       | Reverse String                     | String                  | Easy       | 8/1         |            |
 | 350       | Intersection of Two Arrays II      | Array, Hash Table       | Easy       | 7/30        |            |
 | 387       | First Unique Character in a String | String, Hash Table      | Easy       | 8/1         |            |
-| 704       | Binary Search                      | Array                   | Easy       | 8/11        |            |
+| 704       | Binary Search                      | Array, Binary Search    | Easy       | 8/11        |            |
