@@ -16,6 +16,7 @@
 | 125       | Valid Palindrome                   | String                  | Easy       | 8/8         |            |
 | 136       | Single Number                      | Array                   | Easy       | 7/28        |            |
 | 141       | Linked List Cycle                  | Linked List, Hash Table | Easy       | 8/4         |            |
+| 169       | Majority Element                   | Array, Boyer-Moore      | Easy       | 8/13        | approach 6 |
 | 189       | Rotate Array                       | Array                   | Medium     | 7/28        |            |
 | 206       | Reverse Linked List                | Linked List, Recursion  | Easy       | 8/2         |            |
 | 226       | Invert Binary Tree                 | Tree, Recursion         | Easy       | 8/8         |            |
