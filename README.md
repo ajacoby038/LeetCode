@@ -10,6 +10,7 @@
 | 21        | Merge Two Sorted Lists             | Linked List, Recursion  | Easy       | 8/4         | approach 1 |
 | 28        | Implement strStr()                 | String                  | Easy       | 8/2         |            |
 | 53        | Maximum Subarray                   | Array, DP               | Medium     | 8/11        | approach 3 |
+| 70        | Climbing Stairs                    | DP                      | Easy       | 8/12        |            |
 | 110       | Balanced Binary Tree               | Tree, Recursion         | Easy       | 8/12        | approach 2 |
 | 121       | Best Time to Buy and Sell Stock    | Array                   | Easy       | 8/8         | approach 2 |
 | 125       | Valid Palindrome                   | String                  | Easy       | 8/8         |            |
