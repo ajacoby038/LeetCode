@@ -10,6 +10,7 @@
 | 21        | Merge Two Sorted Lists             | Linked List, Recursion   | Easy       | 8/4         | approach 1 |
 | 28        | Implement strStr()                 | String                   | Easy       | 8/2         |            |
 | 53        | Maximum Subarray                   | Array, DP                | Medium     | 8/11        | approach 3 |
+| 57        | Insert Interval                    | Array                    | Medium     | 8/17        |            |
 | 67        | Add Binary                         | String, Bit Manipulation | Easy       | 8/13        | approach 2 |
 | 70        | Climbing Stairs                    | DP                       | Easy       | 8/12        |            |
 | 110       | Balanced Binary Tree               | Tree, Recursion          | Easy       | 8/12        | approach 2 |
