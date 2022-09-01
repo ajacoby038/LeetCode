@@ -22,6 +22,7 @@
 | 169     | Majority Element                   | Array, Boyer-Moore       | Easy       | 8/13 | approach 6 |
 | 189     | Rotate Array                       | Array                    | Medium     | 7/28 |            |
 | 206     | Reverse Linked List                | Linked List, Recursion   | Easy       | 8/2  |            |
+| 217     | Contains Duplicate                 | Array, Hash Table        | Easy       | 8/31 |            |
 | 226     | Invert Binary Tree                 | Tree, Recursion          | Easy       | 8/8  |            |
 | 232     | Implement Queue Using Stacks       | Stack, Queue             | Easy       | 8/12 |            |
 | 234     | Palindrome Linked List             | Linked List, Recursion   | Easy       | 8/5  | approach 3 |
