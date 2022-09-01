@@ -13,6 +13,7 @@
 | 57      | Insert Interval                    | Array                    | Medium     | 8/17 |            |
 | 67      | Add Binary                         | String, Bit Manipulation | Easy       | 8/13 | approach 2 |
 | 70      | Climbing Stairs                    | DP                       | Easy       | 8/12 |            |
+| 104     | Maximum Depth of Binary Tree       | Tree, Recursion          | Easy       | 8/31 |            |
 | 110     | Balanced Binary Tree               | Tree, Recursion          | Easy       | 8/12 | approach 2 |
 | 121     | Best Time to Buy and Sell Stock    | Array                    | Easy       | 8/8  | approach 2 |
 | 125     | Valid Palindrome                   | String                   | Easy       | 8/8  |            |
