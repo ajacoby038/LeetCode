@@ -39,3 +39,4 @@
 | 704     | Binary Search                      | Array, Binary Search     | Easy       | 8/11 |            |
 | 733     | Flood Fill                         | Array, Recursion         | Easy       | 8/31 |            |
 | 876     | Middle of the Linked List          | Linked List              | Easy       | 8/13 |            |
+| 973     | K Closest Points to Origin         | Array, Priority Queue    | Medium     | 9/4  | approach 2 |
